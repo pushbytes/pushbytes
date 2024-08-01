@@ -69,16 +69,14 @@ I've been learning to code since I was 11 when I started with luau on the ROBLOX
   <img src="https://github-readme-stats.vercel.app/api?username=pushbytes&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=7f1d1d&hide_border=true&show_icons=true" alt="pushbytes's GitHub stats" />
 </a>
 
+</br>
+
 <a href="https://github.com/pushbytes" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushbytes&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=7f1d1d&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
 
 </br>
 
-<div width="100%" align="center">
-  <b>Top Repositories</b>
-  
-  <a href="https://github.com/pushbytes/BIMT" align="left">
+<a href="https://github.com/pushbytes/BIMT" align="left">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pushbytes&repo=BIMT&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=7f1d1d&hide_border=true&locale=en" />
   </a>
-</div>
