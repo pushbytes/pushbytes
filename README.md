@@ -1,12 +1,12 @@
 # Hi 👋 My name is PushBytes
 
-I've been learning to code since I was 11 when I started with luau on the ROBLOX platform. I'm currently 15 and I'm the founder of a group called Xenon Softworks
+I've been learning to code since I was abput 10 to 11 years old, I started with luau on a platform called ROBLOX. I'm currently 15 and I'm the **COO** of a group that does Security Analysis, Software Development and More.
 
-- 🌍  I'm based in Sydney, Australia
-- 🖥️  See my portfolio at [my website!](http://renderengine.lol)
+- 🌍  I'm live in New South Wales, Australia
+- 🖥️  See my portfolio at [my website!](https://ghostclient.lol/)
 - 🚀  I'm currently working on [Xenon](http://discord.gg/QR8Keajysj)
-- 🧠  I'm learning Go Language
-- 🤝  I'm open to collaborating on BIMT
+- 🧠  I'm learning Go & Rust
+- 🤝  I'm open to talking on discord
 
 ### Skills
 
@@ -74,9 +74,3 @@ I've been learning to code since I was 11 when I started with luau on the ROBLOX
 <a href="https://github.com/pushbytes" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushbytes&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=7f1d1d&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
-
-</br>
-
-<a href="https://github.com/pushbytes/BIMT" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pushbytes&repo=BIMT&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=7f1d1d&hide_border=true&locale=en" />
-  </a>
