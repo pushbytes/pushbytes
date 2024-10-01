@@ -1,10 +1,10 @@
 # Hi 👋 My name is PushBytes
 
-I've been learning to code since I was abput 10 to 11 years old, I started with luau on a platform called ROBLOX. I'm currently 15 and I'm the **COO** of a group that does Security Analysis, Software Development and More.
+I've been learning to program since I was about 10 - 11 years old, I started with luau on a platform called ROBLOX. I'm currently 15 and I'm the **CEO** & **Founder** of a group that does Security Analysis, Software Development and More.
 
 - 🌍  I'm live in New South Wales, Australia
 - 🖥️  See my portfolio at [my website!](https://ghostclient.lol/)
-- 🚀  I'm currently working on [Xenon](http://discord.gg/QR8Keajysj)
+- 🚀  I'm currently working hard on [ghostclient.lol](http://discord.gg/QR8Keajysj)
 - 🧠  I'm learning Go & Rust
 - 🤝  I'm open to talking on discord
 
