@@ -1,12 +1,13 @@
 # Hi 👋 My name is PushBytes
 
-I've been learning to program since I was about 10 - 11 years old, I started with luau on a platform called ROBLOX. I'm currently 15 and I'm the **CEO** & **Founder** of a group that does Security Analysis, Software Development and More.
+I've been learning to program since I was about 10 years old, I started with luau and know a large amount of programming languages.</br>
+I'm currently working at Evolve, currently as a **???**
 
-- 🌍  I'm live in New South Wales, Australia
-- 🖥️  See my portfolio at [my website!](https://ghostclient.lol/)
-- 🚀  I'm currently working hard on [ghostclient.lol](http://discord.gg/QR8Keajysj)
-- 🧠  I'm learning Go & Rust
-- 🤝  I'm open to talking on discord
+- 🌍  I live in New South Wales, Australia
+- 🖥️  My portfolio isn't accessible at the moment :(
+- 🚀  I'm currently working hard on Evolve
+- 🧠  I'm wanting to learn more programming languages
+- 🤝  I'm open to talk on X
 
 ### Skills
 
@@ -26,41 +27,6 @@ I've been learning to program since I was about 10 - 11 years old, I started wit
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
-### Socials
-                  
-                  
-<p align="left">
-  <a href="https://discord.com/users/pushbytes" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
-    </picture>
-  </a>
-  <a href="https://www.github.com/pushbytes" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-    </picture>
-  </a>
-  <a href="https://www.x.com/render_engine" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-    </picture>
-  </a>
-  <a href="https://www.youtube.com/@render_engine" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
-    </picture>
-  </a>
-</p>
-
 
 ### Badges
 <b>My GitHub Stats</b>
