@@ -1,10 +1,10 @@
 # Hi 👋 My name is PushBytes
 
-I've been learning to program since I was about 8 years old, I started on the ROBLOX platform and know quite a good amount of languages.</br>
+I've been learning to program since I was about 8 years old, since I always had a lot of free time and access to the Internet I learned stuff completely by myself by just reading!</br>
 
 - 🌍  I live in Australia
-- 💻  I'm a software developer
-- 🥇  I own multiple groups
+- 💻  I'm a frontend and backend developer
+- 🥇  I love competitive work
 
 ### Skills
 
