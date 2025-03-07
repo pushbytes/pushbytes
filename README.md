@@ -12,7 +12,7 @@ I've been learning to program since I was about 8 years old, since I always had 
 ### C++
 Previous Knowledge:
 I know how to do game hacking (memory modifications, debugging, anti-cheat bypassing (learning) and more)</br>
-I don't kernel development but I do know the basics of it</br>
+I don't usually do kernel development (against messing with drivers lol)</br>
 
 
 ### NodeJS
