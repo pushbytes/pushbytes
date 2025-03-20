@@ -1,4 +1,4 @@
-# Hi 👋 My name is PushBytes
+## Hi 👋 My name is PushBytes
 
 I've been learning to program since I was about 8 years old, since I always had a lot of free time and access to the Internet I learned stuff completely by myself by just reading documentation, searching around and a lot of communities</br>
 
@@ -8,7 +8,7 @@ I've been learning to program since I was about 8 years old, since I always had 
 - 🥇  I love competitive work
 - 🦯  I have a little bit of knowledge in Game Hacking, Anti-Cheat Development, and more
 
-### Skills
+## Skills
 ### C++
 Previous Knowledge:
 I know how to do game hacking (memory modifications, debugging, anti-cheat bypassing (learning) and more)</br>
@@ -27,6 +27,8 @@ Previous Knowledge:
 I created user interfaces on ROBLOX with Luau and created a few plugins (based off of other plugins)</br>
 Other projects that used this have been deleted as GitHub deleted my account.</br>
 
+### Others
+I do know other languages however I don't use them as much as my 3 primary ones.
 
 ### Badges
 <b>My GitHub Stats</b>
