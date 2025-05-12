@@ -1,6 +1,6 @@
 ## Hi 👋 My name is PushBytes
 
-I've been learning to program since I was about 8 years old, since I always had a lot of free time and access to the Internet I learned stuff completely by myself by just reading documentation, searching around and a lot of communities</br>
+I'm a junior developer which makes software and stuff, I like competetive development and game hacking in general and I current work at `Aureus`
 
 - 🌍  I live in Australia
 - ✨  I like making new friends
