@@ -1,6 +1,6 @@
 ## Hi 👋 My name is PushBytes
 
-I'm a junior developer which makes software and stuff, I like competetive development and game hacking in general and I current work at `Aureus`
+I'm a junior developer which makes software and stuff, I like competetive development and game hacking in general and I don't currently work.
 
 - 🌍  I live in Australia
 - ✨  I like making new friends
